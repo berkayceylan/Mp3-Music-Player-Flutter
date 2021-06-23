@@ -1,0 +1,2 @@
+Songs isminde bolum olacak
+Playlist olacak ve bu playlist icerigi duruma gore sqlite veya prefs lere kaydi tutulabilecek

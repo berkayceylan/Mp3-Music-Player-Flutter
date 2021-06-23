@@ -1,0 +1,1 @@
+const kBottomHeight = 80.0;
