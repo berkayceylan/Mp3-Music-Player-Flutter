@@ -1,16 +1,6 @@
 # bc_mp3_player
 
-MP3 Player For Github
+İt's MP3 Player as a hobby project.
 
-## Getting Started
+It has playlist and It can detect all music on the phone. You can play them and you can add and delete playlist. When it will completed you can add music to your playlist.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
